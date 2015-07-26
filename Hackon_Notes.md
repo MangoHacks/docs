@@ -65,9 +65,9 @@ Notes from talks on first time hackathon organizers.
 	
 ## Sponsorship
 
-- Link to MLH video on sponsoships here...
+- WATCH: [MLH's Sponsorship workshop](https://www.youtube.com/watch?v=QI9NVe2wA5w)
 - Note recruitment as a sponsor goal. Creative ways of delivering possible recruits to them.
-- Note Q1 and Q4
+- Note Q1 and Q4 are key times to look for sponsorship $$ from companies.
 - Over Deliver, thank you notes, event recap & photos.
 - Negotiate
 - Inventory of deliverables for sponsors to buy from.
@@ -105,7 +105,6 @@ ____
 
 - Basic Branding/ Swag
 - Table/Space
-
 - Tech Talk
 - Resumes
 - Give out Prizes
